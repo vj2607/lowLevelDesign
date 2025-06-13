@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build directory
+/bin/
+/build/
+
+# Ignore IDE settings
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Ignore logs
+*.log
+
+# Maven target folder
+/target/
